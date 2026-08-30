@@ -1,4 +1,4 @@
-package Ejercicio3;
+package Taller6.Ejercicio3;
 
 public class Main {
 
